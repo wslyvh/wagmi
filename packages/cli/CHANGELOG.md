@@ -1,5 +1,11 @@
 # @wagmi/cli
 
+## 0.2.0
+
+### Minor Changes
+
+- [`9e9e9a5`](https://github.com/wagmi-dev/wagmi/commit/9e9e9a545cafd3991bb0df913e009eeb4ac6404d) Thanks [@wslyvh](https://github.com/wslyvh)! - add sourcify cli plugin
+
 ## 0.1.6
 
 ### Patch Changes
